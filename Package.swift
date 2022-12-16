@@ -56,7 +56,7 @@ let sources: [String] = ["Qonversion/Automations/Constants",
                          "Qonversion/Qonversion/Utils/QNDevice",
                          "Qonversion/Qonversion/Utils/QNProperties",
                          "Qonversion/Qonversion/Utils/QNUserInfo",
-                         "Qonversion/Qonversion/Utils/QNUtils", "Qonversion/Qonversion/Utils/QONNotificationsService"]
+                         "Qonversion/Qonversion/Utils/QNUtils", "Qonversion/Automations/Services/QONNotificationsService"]
 
 let package = Package(
     name: "Qonversion",
